@@ -6,6 +6,7 @@
 #
 cycler==0.10.0            # via matplotlib
 colorspacious==1.1.2
+folium==0.12.1
 kiwisolver==1.2.0         # via matplotlib
 matplotlib==3.2.1
 numpy==1.18.5
