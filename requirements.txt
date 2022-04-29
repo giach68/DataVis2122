@@ -22,5 +22,4 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 pyvista
-libgl1-dev
-xvfb
+
